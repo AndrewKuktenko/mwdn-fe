@@ -1,3 +1,19 @@
+///
+
+## MY RESULT
+
+# GALLERY
+
+<img width="1364" alt="image" src="https://github.com/AndrewKuktenko/mwdn-fe/assets/17034865/a1596a1f-9813-4248-a9a6-cf9d106aa6ac">
+
+
+# CAROUSEL
+
+<img width="1434" alt="image" src="https://github.com/AndrewKuktenko/mwdn-fe/assets/17034865/c23a9df5-5b49-46f3-8cfd-1513a6a3f14f">
+
+
+
+///
 # Frontend Interview
 After working on the backend app we need to implement it on the frontend
 
